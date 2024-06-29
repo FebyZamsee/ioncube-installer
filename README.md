@@ -9,13 +9,11 @@ Cukup salin & tempel ke terminal
 
 
 
-```
-. <(curl https://github.com/FebyZamsee/ioncube-installer/step1.sh)
+`. <(curl https://github.com/FebyZamsee/ioncube-installer/step1.sh)`
 
-proot-distro login debian
+`proot-distro login debian`
 
-. <(curl https://github.com/FebyZamsee/ioncube-installer/step2.sh)
-```
+`. <(curl https://github.com/FebyZamsee/ioncube-installer/step2.sh)`
 
 
 EN:
