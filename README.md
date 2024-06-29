@@ -1,2 +1,2 @@
 # ioncube-installer
-Auto Installer Ioncube v12.0.4
+Auto Installer Ioncube v12 (Termux ONLY)
